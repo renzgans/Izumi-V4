@@ -1,25 +1,13 @@
 /*HELLO BRO TERIMA KASIH SUDAH AMBIL SCRIPT INI JANGAN LUPA IKUTI DAN SUBSCRIBE MEDIA SOSIAL OWNER DAN BOT
 
-Sc Ori By Arasya
-Sc Record By Christian ID
+Sc Ori By Renz
 Note : Jangan Perjualkan Sc Ini!!!
 
-Instagram Jojo : @arsrfi.jpg
-Youtube : Jojo Channel
+Instagram : @renzstoredl
+Youtube : Renz GTPS
+WhatsApp : 0812-5036-5581
 
-Instagram : @chris.tianid
-Youtube : Christian ID
-WhatsApp : 0859-2116-5857
-
-THANKS TO
-- Irfan Hardianto
-- Amell
-- Hardianto
-- Affis Junianto
-- Rafli Rusdiana
-- Febri
-- Jojo
-- Christian ID
+THANKS TO ALL
 
 Terimakasih*/
 "use strict";
